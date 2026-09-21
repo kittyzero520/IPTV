@@ -10,10 +10,10 @@
 
 | 文件 | 适用设备 |
 |---|---|
-| `IPTV-1.0.0-mobile-arm64-v8a.apk` | 手机 / 平板（64 位，主流机型） |
-| `IPTV-1.0.0-mobile-armeabi-v7a.apk` | 手机 / 平板（32 位，老旧机型） |
-| `IPTV-1.0.0-tv-arm64-v8a.apk` | Android TV / 电视盒子（64 位） |
-| `IPTV-1.0.0-tv-armeabi-v7a.apk` | Android TV / 电视盒子（32 位） |
+| `IPTV-mobile-arm64-v8a-1.0.0.apk` | 手机 / 平板（64 位，主流机型） |
+| `IPTV-mobile-armeabi-v7a-1.0.0.apk` | 手机 / 平板（32 位，老旧机型） |
+| `IPTV-tv-arm64-v8a-1.0.0.apk` | Android TV / 电视盒子（64 位） |
+| `IPTV-tv-armeabi-v7a-1.0.0.apk` | Android TV / 电视盒子（32 位） |
 
 不确定架构时，2019 年后的设备绝大多数选 `arm64-v8a` 即可。
 
